@@ -10,7 +10,7 @@ def argue(arg1)
   return arg1
 end
 
-def greeting
+def greeting(name, language)
 
 end
 
